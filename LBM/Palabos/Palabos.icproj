@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Palabos"
+	ProjectGUID="{836B2966-54FE-43AF-91AD-603B0D18155A}"
+	VCNestedProjectGUID="{B61FB0EE-1945-4BB7-BA00-86CB1411F5C6}"
+	VCNestedProjectFileName="Palabos.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
