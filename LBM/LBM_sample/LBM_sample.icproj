@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="LBM_sample"
+	ProjectGUID="{706F65EA-6F19-450E-843A-F581542F4CAE}"
+	VCNestedProjectGUID="{5834699F-C11A-4E79-BAE5-E4363BC8A864}"
+	VCNestedProjectFileName="LBM_sample.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
